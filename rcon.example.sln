@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rcon.example", "rcon.example\rcon.example.csproj", "{DA1BA962-9799-43CD-A0D5-B5D3213AAFA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rcon.library", "rcon.library\rcon.library.csproj", "{EF0F301D-D829-4635-ABB8-9B080086F0ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA1BA962-9799-43CD-A0D5-B5D3213AAFA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1BA962-9799-43CD-A0D5-B5D3213AAFA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1BA962-9799-43CD-A0D5-B5D3213AAFA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1BA962-9799-43CD-A0D5-B5D3213AAFA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0F301D-D829-4635-ABB8-9B080086F0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0F301D-D829-4635-ABB8-9B080086F0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0F301D-D829-4635-ABB8-9B080086F0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0F301D-D829-4635-ABB8-9B080086F0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {716DD48D-B350-4BDA-8E51-1700E7F51426}
+	EndGlobalSection
+EndGlobal
